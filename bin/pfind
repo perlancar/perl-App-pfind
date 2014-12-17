@@ -1,0 +1,22 @@
+#!perl
+
+# DATE
+# VERSION
+
+use 5.010;
+use strict;
+use warnings;
+
+use Proc::Find qw(find_proc);
+
+# ABSTRACT: Find processes by name or other criteria
+# PODNAME:
+
+=head1 SYNOPSIS
+
+
+=head1 SEE ALSO
+
+L<pgrep>
+
+=cut
